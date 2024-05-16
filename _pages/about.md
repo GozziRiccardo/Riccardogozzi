@@ -6,7 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![zen][def]{: .align-right width="35%" heigth="auto"} 
+<div class="img-label-wrapper">
+  <img class="titleResource" src="/images/zen.png">                   
+</div>
+
+.img-label-wrapper {
+  display: flex;
+}
+
+.titleResource {
+    max-width: 100px;
+    max-height: 20px;
+    margin-left: auto;
+}
 
 I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, and set descriptive theory. 
 
@@ -18,4 +30,3 @@ Specifically, I investigate the relations between different classes of continuou
 
 
 
-[def]: /images/zen.png
