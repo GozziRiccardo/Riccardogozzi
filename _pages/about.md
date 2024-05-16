@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![zen](/images/zen.png){: .align-right width="35%" heigth="auto"} 
+![zen](/images/profile.png){: .align-right width="35%" heigth="auto"} 
 
 I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, and set descriptive theory. 
 
