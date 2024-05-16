@@ -25,6 +25,6 @@ of Turing machines is performed we are able to provide a complete characterizati
 of the polynomial space complexity classes FPSPACE and PSPACE.
 Finally, we discuss the complexity of the problem of computing the complex
 square root over simply connected domains of the complex plane, describing an
-algorithm that proves the upper complexity bound to belong to the class P^LP. This
+algorithm that proves the upper complexity bound to belong to the class P^ParityP. This
 description improves the existing computational complexity result for this problem,
 which was achieved with an algorithm of complexity P^MP.
