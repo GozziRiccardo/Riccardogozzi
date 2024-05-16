@@ -9,7 +9,7 @@ redirect_from:
 <img align="center"
      src="images/zen.jpeg" 
      width="1200" 
-     height="300" 
+     height="200" 
      alt="garden"/>
 
 I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, and set descriptive theory. 
@@ -31,6 +31,6 @@ Specifically, I investigate the relations between different classes of continuou
 
 <img align="center"
      src="images/zen.png" 
-     width="500" 
-     height="250" 
+     width="1200" 
+     height="200" 
      alt="stones"/>
