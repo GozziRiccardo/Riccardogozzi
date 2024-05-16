@@ -14,7 +14,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications_conference reversed %}
+{% for post in site.publications_journal reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
