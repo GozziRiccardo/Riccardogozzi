@@ -7,8 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.theses %}
+{% for post in site.theses reversed %}
   {% include archive-single-theses.html %}
 {% endfor %}
 
