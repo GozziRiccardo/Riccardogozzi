@@ -6,19 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div class="img-label-wrapper">
-  <img class="titleResource" src="/images/zen.png">                   
-</div>
-
-.img-label-wrapper {
-  display: flex;
-}
-
-.titleResource {
-    max-width: 100px;
-    max-height: 20px;
-    margin-left: auto;
-}
+<img title="Zen" alt="Zen" src="/images/zen.png">
 
 I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, and set descriptive theory. 
 

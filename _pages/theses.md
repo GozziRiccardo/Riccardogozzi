@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: "Theses"
-permalink: /portfolio/
+permalink: /theses/
 author_profile: true
 ---
 
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for post in site.theses %}
+  {% include archive-single-theses.html %}
 {% endfor %}
 
