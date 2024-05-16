@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Zenimage](/images/zen.jpeg)
+<img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="400" 
+     height="500" />
 
 I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, and set descriptive theory. 
 
@@ -23,3 +25,6 @@ Specifically, I investigate the relations between different classes of continuou
 ## 🎓 Postdoctoral researcher (2022-Present)
 🏛️ École Polytechnique Université & Paris Est Créteil Val de Marne, Paris, France
 
+
+
+[def]: /images/zen.jpeg
