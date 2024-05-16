@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="images/zen.png" 
+<img align="right"
+     src="images/zen.png" 
      width="500" 
      height="250" 
      alt="stones"/>
