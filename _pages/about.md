@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="zen.png" 
-     width="600" 
-     height="400" 
+<img src="images/zen.png" 
+     width="500" 
+     height="250" 
      alt="stones"/>
 
 I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, and set descriptive theory. 
