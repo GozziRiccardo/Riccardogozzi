@@ -9,23 +9,25 @@ redirect_from:
 <img align="center"
      src="images/zen.jpeg" 
      width="1200" 
-     height="700" 
+     height="500" 
      alt="garden"/>
 
 I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, and set descriptive theory. 
 
 Specifically, I investigate the relations between different classes of continuous-time dynamical systems and models of computation, including discrete models such as Turing machines and analog models such as the GPAC. This analysis has produced dynamical characterizations of models on a computability level (Turing machines and computable analysis), on a complexity level (EXPTIME and PSPACE), and on a definability level (ordinal computing and hyperarithmetical hierarchy). 
 
-<img align="right"
-     src="images/zen.png" 
-     width="450" 
-     height="250" 
-     alt="stones"/>
+
 
 # Professional experience:
 
 ## 🎓 PhD in Physics and Mathematics of Information (2017-2022)
 🏛️ Instituto Superior Tecnico, Lisbon, Portugal
+
+<img align="right"
+     src="images/zen.png" 
+     width="250" 
+     height="250" 
+     alt="stones"/>
 
 ## 🎓 Scientific visit and collaboration (2020-2022)
 🏛️ Fukuoka university & Kyoto univerisity, Fukuoka & Kyoto, Japan
