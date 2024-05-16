@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="https://depositphotos.com/photo/zen-garden-3286255.html" 
+<img src="zen.png" 
      width="600" 
      height="400" />
 
