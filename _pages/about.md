@@ -9,7 +9,7 @@ redirect_from:
 <img align="center"
      src="images/zen.jpeg" 
      width="1200" 
-     height="500" 
+     height="300" 
      alt="garden"/>
 
 I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, and set descriptive theory. 
@@ -23,14 +23,14 @@ Specifically, I investigate the relations between different classes of continuou
 ## 🎓 PhD in Physics and Mathematics of Information (2017-2022)
 🏛️ Instituto Superior Tecnico, Lisbon, Portugal
 
-<img align="right"
-     src="images/zen.png" 
-     width="250" 
-     height="250" 
-     alt="stones"/>
-
 ## 🎓 Scientific visit and collaboration (2020-2022)
 🏛️ Fukuoka university & Kyoto univerisity, Fukuoka & Kyoto, Japan
 
 ## 🎓 Postdoctoral researcher (2022-Present)
 🏛️ École Polytechnique Université & Paris Est Créteil Val de Marne, Paris, France
+
+<img align="center"
+     src="images/zen.png" 
+     width="500" 
+     height="250" 
+     alt="stones"/>
