@@ -9,7 +9,7 @@ redirect_from:
 <img align="center"
      src="images/zen.jpeg" 
      width="1200" 
-     height="200" 
+     height="100" 
      alt="garden"/>
 
 I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, and set descriptive theory. 
@@ -29,8 +29,14 @@ Specifically, I investigate the relations between different classes of continuou
 ## 🎓 Postdoctoral researcher (2022-Present)
 🏛️ École Polytechnique Université & Paris Est Créteil Val de Marne, Paris, France
 
+<br>
+
+<br>
+
+<br>
+
 <img align="center"
      src="images/zen.png" 
      width="1200" 
-     height="200" 
+     height="100" 
      alt="stones"/>
