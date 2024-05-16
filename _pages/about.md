@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="left"
+<img align="right"
      src="images/zen.png" 
-     width="500" 
+     width="450" 
      height="250" 
      alt="stones"/>
 
