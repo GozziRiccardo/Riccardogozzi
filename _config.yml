@@ -273,7 +273,7 @@ defaults:
       path: ""
       type: publications_preprint
     values:
-      layout: single
+      layout: singlepreprint
       author_profile: true
       share: false
       comments: false
