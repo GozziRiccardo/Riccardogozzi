@@ -26,7 +26,7 @@ Specifically, I investigate the relations between different classes of continuou
 ## 🎓 Scientific visit and collaboration (2020-2022)
 🏛️ Fukuoka university & Kyoto univerisity, Fukuoka & Kyoto, Japan
 
-## 🎓 PhD in Physics and Mathematics of Information (2017-2022)
+## 🎓 PhD in Information security (2017-2022)
 🏛️ Instituto Superior Tecnico, Lisbon, Portugal
 
 <br>
