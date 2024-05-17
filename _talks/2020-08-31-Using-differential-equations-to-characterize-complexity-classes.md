@@ -8,5 +8,5 @@ date: 2020-08-31
 location: "Faro, Portugal"
 ---
 
-[More information here](https://www.computability.org/continuity-computability-constructivity-2020-call-for-submissions/)
+[More information here](https://www.ualg.pt/ccc-2020-continuity-computability-constructivity-logic-algorithms)
 

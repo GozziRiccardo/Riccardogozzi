@@ -20,14 +20,14 @@ Specifically, I investigate the relations between different classes of continuou
 
 # Professional experience:
 
-## 🎓 PhD in Physics and Mathematics of Information (2017-2022)
-🏛️ Instituto Superior Tecnico, Lisbon, Portugal
+## 🎓 Postdoctoral researcher (2022-Present)
+🏛️ École Polytechnique Université & Paris Est Créteil Val de Marne, Paris, France
 
 ## 🎓 Scientific visit and collaboration (2020-2022)
 🏛️ Fukuoka university & Kyoto univerisity, Fukuoka & Kyoto, Japan
 
-## 🎓 Postdoctoral researcher (2022-Present)
-🏛️ École Polytechnique Université & Paris Est Créteil Val de Marne, Paris, France
+## 🎓 PhD in Physics and Mathematics of Information (2017-2022)
+🏛️ Instituto Superior Tecnico, Lisbon, Portugal
 
 <br>
 
