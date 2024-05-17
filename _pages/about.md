@@ -21,9 +21,9 @@ Specifically, I investigate the relations between different classes of continuou
 # Professional experience:
 
 ## 🎓 Postdoctoral researcher (2022-Present)
-🏛️ École Polytechnique Université & Paris Est Créteil Val de Marne, Paris, France
+🏛️ École Polytechnique & Université Paris Est Créteil Val de Marne, Paris, France
 
-## 🎓 Scientific visit and collaboration (2020-2022)
+## 🎓 Scientific visits and collaborations (2020-2022)
 🏛️ Fukuoka university & Kyoto univerisity, Fukuoka & Kyoto, Japan
 
 ## 🎓 PhD in Information security (2017-2022)
