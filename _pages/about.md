@@ -24,7 +24,7 @@ Specifically, I investigate the relations between different classes of continuou
 🏛️ École Polytechnique & Université Paris Est Créteil Val de Marne, Paris, France
 
 ## 🎓 Scientific visits and collaborations (2020-2022)
-🏛️ Fukuoka university & Kyoto univerisity, Fukuoka & Kyoto, Japan
+🏛️ Kyushu university & Kyoto univerisity, Fukuoka & Kyoto, Japan
 
 ## 🎓 PhD in Information security (2017-2022)
 🏛️ Instituto Superior Tecnico, Lisbon, Portugal
