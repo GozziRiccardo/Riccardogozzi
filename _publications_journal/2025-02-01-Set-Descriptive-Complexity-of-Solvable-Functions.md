@@ -1,10 +1,10 @@
 ---
 title: "Set Descriptive Complexity of Solvable Functions"
 collection: publications_journal
-permalink: /publication/2025-Set-Descriptive-Complexity-of-Solvable-Functions
+permalink: /publication/2025-02-01-Set-Descriptive-Complexity-of-Solvable-Functions
 excerpt: ''
-date: 2025
-venue: 'Computability'
+date: 2025-02-01
+venue: 'Computability, vol. 14, no. 1'
 paperurl: 'https://doi.org/10.48550/arXiv.2405.19304'
 citation: 'Gozzi Riccardo, and Bournez Olivier. "Set Descriptive Complexity of Solvable Functions." arXiv e-prints (2024): arXiv-2405.'
 ---

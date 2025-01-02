@@ -12,7 +12,7 @@ redirect_from:
      height="5" 
      alt="garden"/>
 
-I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, set descriptive theory, logic and formal systems. 
+I am a postdoc researcher in mathematics and theoretical computer science. My research interests focus on dynamical systems, ordinary differential equations, analog models of computation, computable analysis, computability and complexity theory, set descriptive theory, logic, formal systems and theorem proving. 
 
 <!-- Specifically, I investigate the relations between different classes of continuous-time dynamical systems and models of computation, including discrete models such as Turing machines and analog models such as the GPAC. This analysis has produced dynamical characterizations of models on a computability level (Turing machines and computable analysis), on a complexity level (EXPTIME and PSPACE), and on a definability level (ordinal computing and hyperarithmetical hierarchy).  -->
 
